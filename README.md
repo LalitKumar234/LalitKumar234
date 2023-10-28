@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**LalitKumar234/LalitKumar234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Lalit 👋
 
-Here are some ideas to get you started:
+I'm a passionate Frontend Developer with expertise in React, Next.js, and the MERN stack. Welcome to my GitHub page, where I share my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Tech Stack
+
+- Frontend: React, Next.js, HTML, CSS, JavaScript
+- Backend: Node.js, Express
+- Database: MongoDB
+- Version Control: Git
+- Deployment: Heroku, Netlify, Vercel
+
+## 🔧 My Skills
+
+- Responsive Web Design
+- UI/UX Design
+- API Integration
+- State Management
+- Testing (Jest, React Testing Library)
+- Performance Optimization
+- Code Reviews
