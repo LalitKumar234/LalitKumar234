@@ -20,3 +20,16 @@ I'm a passionate Frontend Developer with expertise in React, Next.js, and the ME
 - Testing (Jest, React Testing Library)
 - Performance Optimization
 - Code Reviews
+
+- 
+```const UserInformation = {
+ pronouns: "He" | "Him",
+    askMeAbout: ["software developer"],
+    technologies:{
+        fronend: ["reactjs", "react-native", "nextjs"],
+        backend: ["nodejs", "express", "firebase", "appwrite", "supabase"],
+        database: ["mongo","mysql"],
+        others:["illustrator", "figma"]
+    },
+    interests: ["music", "movie"]
+}```
