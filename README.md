@@ -21,8 +21,9 @@ I'm a passionate Frontend Developer with expertise in React, Next.js, and the ME
 - Performance Optimization
 - Code Reviews
 
-- 
-```const UserInformation = {
+  
+```js
+const UserInformation = {
  pronouns: "He" | "Him",
     askMeAbout: ["software developer"],
     technologies:{
