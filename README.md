@@ -33,4 +33,4 @@ const UserInformation = {
         others:["illustrator", "figma"]
     },
     interests: ["music", "movie"]
-}```
+}
